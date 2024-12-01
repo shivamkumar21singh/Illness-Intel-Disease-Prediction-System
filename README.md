@@ -35,7 +35,7 @@ Deployment: Deployed on Hugging Face Spaces.
 
 **Deployment**
 
-The project is deployed on Hugging Face Spaces and can be accessed here.
+The project is deployed on Hugging Face Spaces and can be accessed https://huggingface.co/spaces/anubhaha/Illness_Intel_Disease_Prediction_System.
 
 **Usage**
 
